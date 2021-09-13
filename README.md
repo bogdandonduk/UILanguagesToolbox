@@ -3,7 +3,7 @@
 
   Utility library that simplifies UI language management on Android. It allows you to make the language of your application totally independent from the system language by managing custom preferences and dynamic loading of the default or alternative string **locale** resources whenever you decide. It also conveniently organizes the dynamic language switching via corresponding interface.
   ![](https://github.com/bogdandonduk/UILanguagesToolbox/blob/master/device-2021-09-13-163327.png)![](https://github.com/bogdandonduk/UILanguagesToolbox/blob/master/device-2021-09-13-163357.png)
-![](https://github.com/bogdandonduk/UIThemesToolbox/blob/master/PicsArt_09-13-01.32.32.png)![](https://github.com/bogdandonduk/UIThemesToolbox/blob/master/PicsArt_09-13-01.33.26.png)
+![](https://github.com/bogdandonduk/UILanguagesToolbox/blob/master/PicsArt_09-13-04.42.06.png)![](https://github.com/bogdandonduk/UILanguagesToolbox/blob/master/PicsArt_09-13-04.42.42.png)
 ## Include in your project  
 **Gradle dependency**  
   
