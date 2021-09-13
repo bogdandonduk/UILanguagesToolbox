@@ -2,7 +2,7 @@
 # UILanguagesToolbox
 
   Utility library that simplifies UI language management on Android. It allows you to make the language of your application totally independent from the system language by managing custom preferences and dynamic loading of the default or alternative string **locale** resources whenever you decide. It also conveniently organizes the dynamic language switching via corresponding interface.
-  ![](https://github.com/bogdandonduk/UIThemesToolbox/blob/master/device-2021-09-13-001700.png)![](https://github.com/bogdandonduk/UIThemesToolbox/blob/master/device-2021-09-13-133728.png)
+  ![](https://github.com/bogdandonduk/UILanguagesToolbox/blob/master/device-2021-09-13-163327.png)![](https://github.com/bogdandonduk/UILanguagesToolbox/blob/master/device-2021-09-13-163357.png)
 ![](https://github.com/bogdandonduk/UIThemesToolbox/blob/master/PicsArt_09-13-01.32.32.png)![](https://github.com/bogdandonduk/UIThemesToolbox/blob/master/PicsArt_09-13-01.33.26.png)
 ## Include in your project  
 **Gradle dependency**  
@@ -18,7 +18,7 @@ dependencies {
 	...  
 }  
 ```  
-You can always find the **latest_version_tag** [here](https://github.com/bogdandonduk/UIThemesToolbox/releases).  
+You can always find the **latest_version_tag** [here](https://github.com/bogdandonduk/UILanguagesToolbox/releases).  
   
 Also make sure you have this repository in your **project**-level **build.gradle** file:  
 ```groovy  
